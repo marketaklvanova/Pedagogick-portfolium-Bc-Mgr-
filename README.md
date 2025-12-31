@@ -1,1 +1,2 @@
-Do této části portfolia vložte materiály k Vašemu oborovému základu. Např. dokumentaci k technické praxi, realizovaný projekt v Rapsbery Pi, Arduinu, etc., vlastní program včetně kódu, webové stránky s dokumentací atd.
+Metodické listy a realizované projekty
+
