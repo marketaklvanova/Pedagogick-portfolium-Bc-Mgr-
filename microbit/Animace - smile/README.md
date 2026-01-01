@@ -7,3 +7,5 @@ pro pochopení práce s displejem micro:bitu, časováním (čekej) a událostmi
 (stisk tlačítek).
 
 Projekt je určen jako inspirační ukázka pro žáky při návrhu vlastní animace.
+
+Odkaz na repozitář MakeCode https://github.com/marketaklvanova/animace-1
