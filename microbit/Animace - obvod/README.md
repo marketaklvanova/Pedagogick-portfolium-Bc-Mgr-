@@ -8,3 +8,5 @@ Rychlost animace lze měnit pomocí tlačítek zařízení.
 
 Projekt slouží jako učitelská ukázka práce s proměnnými, podmínkami a cyklem
 a jako základ pro tvorbu vlastní animace žáků.
+
+Odkaz na repozitář MakeCode https://github.com/marketaklvanova/animace 
